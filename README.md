@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/premium-vector/programmer-desk_3523765.htm?epik=dj0yJnU9TE5tbFNRV0g5S2FlZWZ2R1FqN0pnY2I2NXdmZXgtNXMmcD0wJm49UElPSjhCQ3RzaHdJdTc3aDdtT3pJdyZ0PUFBQUFBR1otdWM4)
+[![MasterHead]([https://tr.pinterest.com/pin/528680443776655933/])
 
 <h1 align="center">Hi 👋, I'm İlayda Cansev</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
