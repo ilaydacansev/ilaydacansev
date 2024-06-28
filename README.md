@@ -1,4 +1,4 @@
-[![MasterHead]([https://tr.pinterest.com/pin/528680443776655933/])
+[![MasterHead]([[https://tr.pinterest.com/pin/528680443776655933/](https://img.freepik.com/premium-vector/programmer-desk_1302-14802.jpg?w=826)])
 
 <h1 align="center">Hi 👋, I'm İlayda Cansev</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
