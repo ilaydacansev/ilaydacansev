@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm İlayda Cansev</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilaydacansev" alt="ilaydacansev" /></a> </p>
-
 - 🔭 I’m currently working on **my own website**
 
 - 🌱 I’m currently learning **Javascript and React JS**
