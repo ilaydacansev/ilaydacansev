@@ -1,4 +1,4 @@
-[![MasterHead]([https://tr.pinterest.com/pin/528680443776655933/](https://img.freepik.com/premium-vector/programmer-desk_1302-14802.jpg?w=826)](https://stock.adobe.com/images/workspace-of-web-developer-with-text-code-on-abstract-blue-background-isometric-design-for-software-development/294370899)
+[![MasterHead](https://stock.adobe.com/images/workspace-of-web-developer-with-text-code-on-abstract-blue-background-isometric-design-for-software-development/294370899)
 
 <h1 align="center">Hi 👋, I'm İlayda Cansev</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
